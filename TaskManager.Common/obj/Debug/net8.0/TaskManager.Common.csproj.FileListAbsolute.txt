@@ -1,0 +1,11 @@
+C:\Users\dmitr\source\repos\TaskManager\TaskManager.Common\bin\Debug\net8.0\TaskManager.Common.deps.json
+C:\Users\dmitr\source\repos\TaskManager\TaskManager.Common\bin\Debug\net8.0\TaskManager.Common.dll
+C:\Users\dmitr\source\repos\TaskManager\TaskManager.Common\bin\Debug\net8.0\TaskManager.Common.pdb
+C:\Users\dmitr\source\repos\TaskManager\TaskManager.Common\obj\Debug\net8.0\TaskManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\source\repos\TaskManager\TaskManager.Common\obj\Debug\net8.0\TaskManager.Common.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\TaskManager\TaskManager.Common\obj\Debug\net8.0\TaskManager.Common.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\TaskManager\TaskManager.Common\obj\Debug\net8.0\TaskManager.Common.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\TaskManager\TaskManager.Common\obj\Debug\net8.0\TaskManager.Common.dll
+C:\Users\dmitr\source\repos\TaskManager\TaskManager.Common\obj\Debug\net8.0\refint\TaskManager.Common.dll
+C:\Users\dmitr\source\repos\TaskManager\TaskManager.Common\obj\Debug\net8.0\TaskManager.Common.pdb
+C:\Users\dmitr\source\repos\TaskManager\TaskManager.Common\obj\Debug\net8.0\ref\TaskManager.Common.dll
